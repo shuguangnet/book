@@ -1,5 +1,4 @@
 ---
----
 home: true
 title: 首页
 heroImage: https://vuejs.press/images/hero.png
@@ -9,7 +8,7 @@ actions:
     type: primary
 
   - text: 我的博客
-    link: https://vuejs.press/guide/introduction.html
+    link: https://pqblog.com
     type: secondary
 
 features:
@@ -28,13 +27,6 @@ features:
 
 footer: MIT 许可证 | 版权所有 © 2018-至今 VuePress 社区
 ---
-
 欢迎来到曙光博客！在这里，我们热爱 Web 开发和 App 开发，通过分享知识、技术经验和教程，助力每位开发者的成长与进步。我们致力于提供丰富的技术文章、最新的行业动态，以及实用的开发技巧，帮助你在前端开发和应用程序开发的道路上不断前行。了解更多内容，请访问[首页文档][default-theme-home]。
-
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
-
-
----
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
