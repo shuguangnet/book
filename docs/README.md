@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: https://vuejs.press/images/hero.png
+heroImage: https://sgblog.oss-cn-beijing.aliyuncs.com/uploads/2021/07/550090076.jpg
 actions:
   - text: 开始
     link: /getting-started.html
